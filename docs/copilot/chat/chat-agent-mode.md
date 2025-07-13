@@ -10,7 +10,7 @@ With chat _agent mode_ in Visual Studio Code, you can use natural language to sp
 
 ## Prerequisites
 
-* Install the latest version of [Visual Studio Code](/download)
+* Install the latest version of [Visual Studio Code][def]
 * Access to [Copilot](/docs/copilot/setup.md). [Copilot Free plan](https://github.com/github-copilot/signup) and get a monthly limit of completions and chat interactions.
 
 ## Why use agent mode?
@@ -307,3 +307,6 @@ A chat request can have a maximum of 128 tools enabled at a time. If you have mo
 
 * [Configure MCP servers to add tools to agent mode](/docs/copilot/chat/mcp-servers.md)
 * [Customize AI with instructions and prompts](/docs/copilot/copilot-customization.md)
+
+
+[def]: /download
